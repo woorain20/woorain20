@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 # :mailbox_with_mail: Contacts
 <p>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suoerwgzi@gmail.com)](mailto:suoerwgzi@gmail.com)
+  <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suoerwgzi@gmail.com)](mailto:suoerwgzi@gmail.com)/>
 </p>
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={woorain20})](https://solved.ac/{woorain20})
