@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WooGi%20Kim&fontSize=90)
 
-# 💪Skills
-#### Platforms & Languages
+
 <p align="center">
+  # 💪Skills
+  #### Platforms & Languages
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -31,16 +32,18 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 </p>
 
-### Tools
+
 <p align="center">
+  ### Tools
   <img src="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=flat-square&logo=Visual%20Studio&logoColor=white"/>
 </P>
 
-### :mailbox_with_mail: Contacts
+
 <p align="center">
+  ### :mailbox_with_mail: Contacts
   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suoerwgzi@gmail.com)](mailto:suoerwgzi@gmail.com)"/>
 </p>
 
