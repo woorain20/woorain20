@@ -28,6 +28,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/>
 </p>
 
+# :mailbox_with_mail: Contacts
+<p>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suoerwgzi@gmail.com)](mailto:suoerwgzi@gmail.com)
+</p>
+  
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={woorain20})](https://solved.ac/{woorain20})
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woorain20&show_icons=true&theme=radical)
