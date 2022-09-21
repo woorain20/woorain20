@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Woo-Gi%20Kim&fontSize=90)
 
+# 💪Skills
 #### Platforms & Languages
 <p>
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/>
